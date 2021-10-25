@@ -1,0 +1,5 @@
+public class 2nd(){
+public static void main(String argsp[]){
+System.out.println("2nd project");
+}
+}
